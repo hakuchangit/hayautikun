@@ -222,10 +222,13 @@ SWIFT_CLASS("_TtC10hayautikun24PlayDetailViewController")
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UILabel;
 
 SWIFT_CLASS("_TtC10hayautikun18PlayViewController")
 @interface PlayViewController : UIViewController
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified timerlabel;
 - (void)viewDidLoad;
+- (void)startTimer;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end

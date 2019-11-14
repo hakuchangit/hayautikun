@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>4BD7C2E2-531C-4388-9F3A-5D045C19C2DA</key>
+		<key>CC266C04-3BE7-4923-A56B-48751B6C5ECC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,24 +15,24 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>4BD7C2E2-531C-4388-9F3A-5D045C19C2DA.xcactivitylog</string>
+			<string>CC266C04-3BE7-4923-A56B-48751B6C5ECC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>signature</key>
 			<string>hayautikun-eorebesznsxkwvcrgeebfmgnvcdu</string>
 			<key>timeStartedRecording</key>
-			<real>595424648.36894906</real>
+			<real>595426974.00259197</real>
 			<key>timeStoppedRecording</key>
-			<real>595424650.00975502</real>
+			<real>595426974.39125299</real>
 			<key>title</key>
 			<string>Build target hayautikun</string>
 			<key>uniqueIdentifier</key>
-			<string>4BD7C2E2-531C-4388-9F3A-5D045C19C2DA</string>
+			<string>CC266C04-3BE7-4923-A56B-48751B6C5ECC</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

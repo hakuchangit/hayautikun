@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15400" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="6it-YY-Csv">
-    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <device id="ipad10_2" orientation="portrait" layout="fullscreen" appearance="light"/>
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15404"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
@@ -11,25 +11,35 @@
         <scene sceneID="HUK-8E-gOd">
             <objects>
                 <viewController storyboardIdentifier="PlayViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="6it-YY-Csv" customClass="PlayViewController" customModule="hayautikun" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="Ljp-WQ-xV7" customClass="P">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                    <view key="view" contentMode="scaleToFill" id="Ljp-WQ-xV7">
+                        <rect key="frame" x="0.0" y="0.0" width="810" height="1080"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="プレイ" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h9j-90-xfq">
-                                <rect key="frame" x="36" y="209" width="192" height="164"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="60" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h9j-90-xfq">
+                                <rect key="frame" x="55" y="90" width="700" height="400"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="700" id="OBP-GM-x7U"/>
+                                    <constraint firstAttribute="height" constant="400" id="wXp-bo-sye"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="black" pointSize="400"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="h9j-90-xfq" firstAttribute="centerY" secondItem="Ljp-WQ-xV7" secondAttribute="centerY" constant="-250" id="7W4-4Q-bk8"/>
+                            <constraint firstItem="h9j-90-xfq" firstAttribute="centerX" secondItem="Ljp-WQ-xV7" secondAttribute="centerX" id="qbd-2D-atd"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="h3A-Uj-nQe"/>
                     </view>
+                    <connections>
+                        <outlet property="timerlabel" destination="h9j-90-xfq" id="y2b-VZ-T8x"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="HOr-Db-IjC" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="118.84057971014494" y="121.875"/>
+            <point key="canvasLocation" x="118.5185185185185" y="121.66666666666666"/>
         </scene>
     </scenes>
 </document>

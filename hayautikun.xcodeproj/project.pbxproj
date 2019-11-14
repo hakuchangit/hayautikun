@@ -120,9 +120,9 @@
 				63EE5AF2237D665400BC8E1E /* Info.plist */,
 				63EE5B14237D674200BC8E1E /* PlayDetailViewController.swift */,
 				63EE5B16237D675700BC8E1E /* PlayDetailViewControllerStoryboard.storyboard */,
-				63EE5B1A237D67F400BC8E1E /* PlayViewController.swift */,
 				63EE5B1C237D680600BC8E1E /* ResultStoryboard.storyboard */,
 				63EE5B1E237D681600BC8E1E /* ResultViewController.swift */,
+				63EE5B1A237D67F400BC8E1E /* PlayViewController.swift */,
 				63EE5B20237D71E700BC8E1E /* PlayViewController.storyboard */,
 			);
 			path = hayautikun;

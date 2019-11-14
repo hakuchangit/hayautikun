@@ -6,6 +6,74 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>01CD3AED-1859-494F-A486-8FD541B9CE46</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>01CD3AED-1859-494F-A486-8FD541B9CE46.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>hayautikun project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hayautikun</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build hayautikun</string>
+			<key>timeStartedRecording</key>
+			<real>595426927.18325996</real>
+			<key>timeStoppedRecording</key>
+			<real>595426927.79061401</real>
+			<key>title</key>
+			<string>Build hayautikun</string>
+			<key>uniqueIdentifier</key>
+			<string>01CD3AED-1859-494F-A486-8FD541B9CE46</string>
+		</dict>
+		<key>08C28C5F-1ED3-4CBE-887C-0C34A53EA6B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>08C28C5F-1ED3-4CBE-887C-0C34A53EA6B9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>hayautikun project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hayautikun</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build hayautikun</string>
+			<key>timeStartedRecording</key>
+			<real>595426825.68583596</real>
+			<key>timeStoppedRecording</key>
+			<real>595426825.80487001</real>
+			<key>title</key>
+			<string>Build hayautikun</string>
+			<key>uniqueIdentifier</key>
+			<string>08C28C5F-1ED3-4CBE-887C-0C34A53EA6B9</string>
+		</dict>
 		<key>10327480-8B81-4C0E-B2E1-B15DBE4BBEFB</key>
 		<dict>
 			<key>className</key>
@@ -244,6 +312,40 @@
 			<key>uniqueIdentifier</key>
 			<string>3DD90BA5-BA3E-45D8-99E8-F0560F62B64B</string>
 		</dict>
+		<key>3E220901-F9F7-4CA2-B79E-B8B0FF2188FC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3E220901-F9F7-4CA2-B79E-B8B0FF2188FC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>hayautikun project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hayautikun</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build hayautikun</string>
+			<key>timeStartedRecording</key>
+			<real>595426747.29501903</real>
+			<key>timeStoppedRecording</key>
+			<real>595426751.64989102</real>
+			<key>title</key>
+			<string>Build hayautikun</string>
+			<key>uniqueIdentifier</key>
+			<string>3E220901-F9F7-4CA2-B79E-B8B0FF2188FC</string>
+		</dict>
 		<key>5E20BD13-C221-40B9-BCB7-BA28B76FBCA5</key>
 		<dict>
 			<key>className</key>
@@ -277,6 +379,40 @@
 			<string>Build hayautikun</string>
 			<key>uniqueIdentifier</key>
 			<string>5E20BD13-C221-40B9-BCB7-BA28B76FBCA5</string>
+		</dict>
+		<key>65AB452D-847D-4266-9C4C-D7E8F93C0858</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>65AB452D-847D-4266-9C4C-D7E8F93C0858.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>hayautikun project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hayautikun</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build hayautikun</string>
+			<key>timeStartedRecording</key>
+			<real>595426509.70776105</real>
+			<key>timeStoppedRecording</key>
+			<real>595426521.21603501</real>
+			<key>title</key>
+			<string>Build hayautikun</string>
+			<key>uniqueIdentifier</key>
+			<string>65AB452D-847D-4266-9C4C-D7E8F93C0858</string>
 		</dict>
 		<key>66F69F5D-95D8-4EF0-A921-FD13B0CE19E6</key>
 		<dict>
@@ -549,6 +685,40 @@
 			<string>Build hayautikun</string>
 			<key>uniqueIdentifier</key>
 			<string>D55F7474-C966-4F14-BD63-89B9564BDDC6</string>
+		</dict>
+		<key>D5785857-4893-4BC4-B070-E527449FE920</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5785857-4893-4BC4-B070-E527449FE920.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>hayautikun project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hayautikun</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build hayautikun</string>
+			<key>timeStartedRecording</key>
+			<real>595426973.36117101</real>
+			<key>timeStoppedRecording</key>
+			<real>595426974.39714801</real>
+			<key>title</key>
+			<string>Build hayautikun</string>
+			<key>uniqueIdentifier</key>
+			<string>D5785857-4893-4BC4-B070-E527449FE920</string>
 		</dict>
 		<key>E68B62EB-0B9A-4194-B91D-E780B7EFE3F3</key>
 		<dict>

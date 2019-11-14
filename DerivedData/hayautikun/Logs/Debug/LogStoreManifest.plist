@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>10083A29-276D-478F-804F-6FDFF0EECB0B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>10083A29-276D-478F-804F-6FDFF0EECB0B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>hayautikun project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hayautikun</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hayautikun</string>
+			<key>timeStartedRecording</key>
+			<real>595426974.39964902</real>
+			<key>timeStoppedRecording</key>
+			<real>595427005.54628205</real>
+			<key>title</key>
+			<string>Debug hayautikun</string>
+			<key>uniqueIdentifier</key>
+			<string>10083A29-276D-478F-804F-6FDFF0EECB0B</string>
+		</dict>
 		<key>30567055-94FF-4A31-9D1D-9D173C0EBF7D</key>
 		<dict>
 			<key>className</key>
@@ -550,6 +584,40 @@
 			<key>uniqueIdentifier</key>
 			<string>D0C9CB4D-AF0E-405A-9516-E6CB86EAFCD2</string>
 		</dict>
+		<key>DBA4839A-4EE1-4DAA-A343-A2DECAB57538</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DBA4839A-4EE1-4DAA-A343-A2DECAB57538.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>hayautikun project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hayautikun</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hayautikun</string>
+			<key>timeStartedRecording</key>
+			<real>595426521.22711003</real>
+			<key>timeStoppedRecording</key>
+			<real>595426602.21710098</real>
+			<key>title</key>
+			<string>Debug hayautikun</string>
+			<key>uniqueIdentifier</key>
+			<string>DBA4839A-4EE1-4DAA-A343-A2DECAB57538</string>
+		</dict>
 		<key>DE497FA3-5D27-406C-ABAA-3D6C568C97A9</key>
 		<dict>
 			<key>className</key>
@@ -584,6 +652,40 @@
 			<key>uniqueIdentifier</key>
 			<string>DE497FA3-5D27-406C-ABAA-3D6C568C97A9</string>
 		</dict>
+		<key>E081F77F-D742-43E4-AAD6-636AB2504370</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E081F77F-D742-43E4-AAD6-636AB2504370.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>hayautikun project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hayautikun</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hayautikun</string>
+			<key>timeStartedRecording</key>
+			<real>595426927.79312396</real>
+			<key>timeStoppedRecording</key>
+			<real>595426947.79067194</real>
+			<key>title</key>
+			<string>Debug hayautikun</string>
+			<key>uniqueIdentifier</key>
+			<string>E081F77F-D742-43E4-AAD6-636AB2504370</string>
+		</dict>
 		<key>E61D73F5-8C83-45F0-9625-E918FDBC7999</key>
 		<dict>
 			<key>className</key>
@@ -617,6 +719,74 @@
 			<string>Debug hayautikun</string>
 			<key>uniqueIdentifier</key>
 			<string>E61D73F5-8C83-45F0-9625-E918FDBC7999</string>
+		</dict>
+		<key>E6427D5A-6EF9-4130-834E-FA0686D9A0DD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E6427D5A-6EF9-4130-834E-FA0686D9A0DD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>hayautikun project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hayautikun</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hayautikun</string>
+			<key>timeStartedRecording</key>
+			<real>595426751.65626204</real>
+			<key>timeStoppedRecording</key>
+			<real>595426765.013677</real>
+			<key>title</key>
+			<string>Debug hayautikun</string>
+			<key>uniqueIdentifier</key>
+			<string>E6427D5A-6EF9-4130-834E-FA0686D9A0DD</string>
+		</dict>
+		<key>FADA0E08-B83F-4E73-B128-DCC35E9A3BF3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FADA0E08-B83F-4E73-B128-DCC35E9A3BF3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>hayautikun project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hayautikun</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hayautikun</string>
+			<key>timeStartedRecording</key>
+			<real>595426825.80738795</real>
+			<key>timeStoppedRecording</key>
+			<real>595426844.59776998</real>
+			<key>title</key>
+			<string>Debug hayautikun</string>
+			<key>uniqueIdentifier</key>
+			<string>FADA0E08-B83F-4E73-B128-DCC35E9A3BF3</string>
 		</dict>
 	</dict>
 </dict>
