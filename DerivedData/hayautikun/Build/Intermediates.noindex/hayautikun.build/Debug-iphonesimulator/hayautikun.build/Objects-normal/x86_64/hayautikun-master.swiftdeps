@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "f8c4441294fb8b94186bc1219a6b97e0"
+build_time: [1573731848, 419486000]
+inputs:
+  "/Users/hakuchan/Desktop/hayautikun/hayautikun/ViewController.swift": [1573731848, 218626165]
+  "/Users/hakuchan/Desktop/hayautikun/hayautikun/PlayViewController.swift": [1573728371, 917241388]
+  "/Users/hakuchan/Desktop/hayautikun/hayautikun/PlayDetailViewController.swift": [1573728193, 700703623]
+  "/Users/hakuchan/Desktop/hayautikun/hayautikun/AppDelegate.swift": [1573727951, 597391465]
+  "/Users/hakuchan/Desktop/hayautikun/hayautikun/SceneDelegate.swift": [1573727951, 607301370]
+  "/Users/hakuchan/Desktop/hayautikun/hayautikun/ResultViewController.swift": [1573728405, 981073786]

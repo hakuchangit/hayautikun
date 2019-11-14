@@ -15,6 +15,12 @@
 		63EE5AF1237D665400BC8E1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63EE5AEF237D665400BC8E1E /* LaunchScreen.storyboard */; };
 		63EE5AFC237D665400BC8E1E /* hayautikunTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EE5AFB237D665400BC8E1E /* hayautikunTests.swift */; };
 		63EE5B07237D665500BC8E1E /* hayautikunUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EE5B06237D665500BC8E1E /* hayautikunUITests.swift */; };
+		63EE5B15237D674200BC8E1E /* PlayDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EE5B14237D674200BC8E1E /* PlayDetailViewController.swift */; };
+		63EE5B17237D675700BC8E1E /* PlayDetailViewControllerStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63EE5B16237D675700BC8E1E /* PlayDetailViewControllerStoryboard.storyboard */; };
+		63EE5B1B237D67F400BC8E1E /* PlayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EE5B1A237D67F400BC8E1E /* PlayViewController.swift */; };
+		63EE5B1D237D680600BC8E1E /* ResultStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63EE5B1C237D680600BC8E1E /* ResultStoryboard.storyboard */; };
+		63EE5B1F237D681600BC8E1E /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EE5B1E237D681600BC8E1E /* ResultViewController.swift */; };
+		63EE5B21237D71E700BC8E1E /* PlayViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63EE5B20237D71E700BC8E1E /* PlayViewController.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +55,12 @@
 		63EE5B02237D665500BC8E1E /* hayautikunUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hayautikunUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		63EE5B06237D665500BC8E1E /* hayautikunUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hayautikunUITests.swift; sourceTree = "<group>"; };
 		63EE5B08237D665500BC8E1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63EE5B14237D674200BC8E1E /* PlayDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayDetailViewController.swift; sourceTree = "<group>"; };
+		63EE5B16237D675700BC8E1E /* PlayDetailViewControllerStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = PlayDetailViewControllerStoryboard.storyboard; sourceTree = "<group>"; };
+		63EE5B1A237D67F400BC8E1E /* PlayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayViewController.swift; sourceTree = "<group>"; };
+		63EE5B1C237D680600BC8E1E /* ResultStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ResultStoryboard.storyboard; sourceTree = "<group>"; };
+		63EE5B1E237D681600BC8E1E /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
+		63EE5B20237D71E700BC8E1E /* PlayViewController.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = PlayViewController.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +118,12 @@
 				63EE5AED237D665400BC8E1E /* Assets.xcassets */,
 				63EE5AEF237D665400BC8E1E /* LaunchScreen.storyboard */,
 				63EE5AF2237D665400BC8E1E /* Info.plist */,
+				63EE5B14237D674200BC8E1E /* PlayDetailViewController.swift */,
+				63EE5B16237D675700BC8E1E /* PlayDetailViewControllerStoryboard.storyboard */,
+				63EE5B1A237D67F400BC8E1E /* PlayViewController.swift */,
+				63EE5B1C237D680600BC8E1E /* ResultStoryboard.storyboard */,
+				63EE5B1E237D681600BC8E1E /* ResultViewController.swift */,
+				63EE5B20237D71E700BC8E1E /* PlayViewController.storyboard */,
 			);
 			path = hayautikun;
 			sourceTree = "<group>";
@@ -233,6 +251,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				63EE5AF1237D665400BC8E1E /* LaunchScreen.storyboard in Resources */,
+				63EE5B1D237D680600BC8E1E /* ResultStoryboard.storyboard in Resources */,
+				63EE5B17237D675700BC8E1E /* PlayDetailViewControllerStoryboard.storyboard in Resources */,
+				63EE5B21237D71E700BC8E1E /* PlayViewController.storyboard in Resources */,
 				63EE5AEE237D665400BC8E1E /* Assets.xcassets in Resources */,
 				63EE5AEC237D664F00BC8E1E /* Main.storyboard in Resources */,
 			);
@@ -260,8 +281,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				63EE5AE9237D664F00BC8E1E /* ViewController.swift in Sources */,
+				63EE5B1B237D67F400BC8E1E /* PlayViewController.swift in Sources */,
+				63EE5B15237D674200BC8E1E /* PlayDetailViewController.swift in Sources */,
 				63EE5AE5237D664F00BC8E1E /* AppDelegate.swift in Sources */,
 				63EE5AE7237D664F00BC8E1E /* SceneDelegate.swift in Sources */,
+				63EE5B1F237D681600BC8E1E /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
