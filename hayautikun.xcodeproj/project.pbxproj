@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		630C60F923F92EDC00E34445 /* Speaker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 630C60F823F92EDC00E34445 /* Speaker.swift */; };
+		630C60FC2400AFEB00E34445 /* Correct.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 630C60FB2400AFEB00E34445 /* Correct.mp3 */; };
+		630C60FE2400B01500E34445 /* Wrong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 630C60FD2400B01500E34445 /* Wrong.mp3 */; };
+		63BADB1623F553630086FB9C /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63BADB1523F553630086FB9C /* Question.swift */; };
 		63EE5AE5237D664F00BC8E1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EE5AE4237D664F00BC8E1E /* AppDelegate.swift */; };
 		63EE5AE7237D664F00BC8E1E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EE5AE6237D664F00BC8E1E /* SceneDelegate.swift */; };
 		63EE5AE9237D664F00BC8E1E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EE5AE8237D664F00BC8E1E /* ViewController.swift */; };
@@ -41,6 +45,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		630C60F823F92EDC00E34445 /* Speaker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Speaker.swift; sourceTree = "<group>"; };
+		630C60FB2400AFEB00E34445 /* Correct.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Correct.mp3; sourceTree = "<group>"; };
+		630C60FD2400B01500E34445 /* Wrong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wrong.mp3; sourceTree = "<group>"; };
+		63BADB1523F553630086FB9C /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		63EE5AE1237D664F00BC8E1E /* hayautikun.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hayautikun.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63EE5AE4237D664F00BC8E1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63EE5AE6237D664F00BC8E1E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -88,6 +96,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		630C60FA2400AF9B00E34445 /* sound */ = {
+			isa = PBXGroup;
+			children = (
+				630C60FD2400B01500E34445 /* Wrong.mp3 */,
+				630C60FB2400AFEB00E34445 /* Correct.mp3 */,
+			);
+			path = sound;
+			sourceTree = "<group>";
+		};
 		63EE5AD8237D664E00BC8E1E = {
 			isa = PBXGroup;
 			children = (
@@ -111,6 +128,7 @@
 		63EE5AE3237D664F00BC8E1E /* hayautikun */ = {
 			isa = PBXGroup;
 			children = (
+				630C60FA2400AF9B00E34445 /* sound */,
 				63EE5AE4237D664F00BC8E1E /* AppDelegate.swift */,
 				63EE5AE6237D664F00BC8E1E /* SceneDelegate.swift */,
 				63EE5AE8237D664F00BC8E1E /* ViewController.swift */,
@@ -124,6 +142,8 @@
 				63EE5B1E237D681600BC8E1E /* ResultViewController.swift */,
 				63EE5B1A237D67F400BC8E1E /* PlayViewController.swift */,
 				63EE5B20237D71E700BC8E1E /* PlayViewController.storyboard */,
+				63BADB1523F553630086FB9C /* Question.swift */,
+				630C60F823F92EDC00E34445 /* Speaker.swift */,
 			);
 			path = hayautikun;
 			sourceTree = "<group>";
@@ -250,9 +270,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				630C60FC2400AFEB00E34445 /* Correct.mp3 in Resources */,
 				63EE5AF1237D665400BC8E1E /* LaunchScreen.storyboard in Resources */,
 				63EE5B1D237D680600BC8E1E /* ResultStoryboard.storyboard in Resources */,
 				63EE5B17237D675700BC8E1E /* PlayDetailViewControllerStoryboard.storyboard in Resources */,
+				630C60FE2400B01500E34445 /* Wrong.mp3 in Resources */,
 				63EE5B21237D71E700BC8E1E /* PlayViewController.storyboard in Resources */,
 				63EE5AEE237D665400BC8E1E /* Assets.xcassets in Resources */,
 				63EE5AEC237D664F00BC8E1E /* Main.storyboard in Resources */,
@@ -283,8 +305,10 @@
 				63EE5AE9237D664F00BC8E1E /* ViewController.swift in Sources */,
 				63EE5B1B237D67F400BC8E1E /* PlayViewController.swift in Sources */,
 				63EE5B15237D674200BC8E1E /* PlayDetailViewController.swift in Sources */,
+				630C60F923F92EDC00E34445 /* Speaker.swift in Sources */,
 				63EE5AE5237D664F00BC8E1E /* AppDelegate.swift in Sources */,
 				63EE5AE7237D664F00BC8E1E /* SceneDelegate.swift in Sources */,
+				63BADB1623F553630086FB9C /* Question.swift in Sources */,
 				63EE5B1F237D681600BC8E1E /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -390,7 +414,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -444,7 +468,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;

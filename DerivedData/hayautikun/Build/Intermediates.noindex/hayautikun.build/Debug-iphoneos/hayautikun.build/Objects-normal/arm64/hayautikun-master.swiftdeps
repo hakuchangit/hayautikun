@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "3b8ac540e9481c697ed564f97a16fb55"
+build_time: [1582693088, 453775000]
+inputs:
+  "/Users/hakuchan/Desktop/soleil/hayautikun/hayautikun/ViewController.swift": [1573731848, 218626165]
+  "/Users/hakuchan/Desktop/soleil/hayautikun/hayautikun/PlayViewController.swift": [1582445550, 658573005]
+  "/Users/hakuchan/Desktop/soleil/hayautikun/hayautikun/PlayDetailViewController.swift": [1573728193, 700703623]
+  "/Users/hakuchan/Desktop/soleil/hayautikun/hayautikun/Speaker.swift": [1581840297, 264146282]
+  "/Users/hakuchan/Desktop/soleil/hayautikun/hayautikun/AppDelegate.swift": [1581923176, 938595145]
+  "/Users/hakuchan/Desktop/soleil/hayautikun/hayautikun/SceneDelegate.swift": [1573727951, 607301370]
+  "/Users/hakuchan/Desktop/soleil/hayautikun/hayautikun/Question.swift": [1581652151, 801210365]
+  "/Users/hakuchan/Desktop/soleil/hayautikun/hayautikun/ResultViewController.swift": [1582693087, 955919098]

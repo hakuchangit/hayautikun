@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15400" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="4cL-Ev-654">
-    <device id="retina6_1" orientation="portrait" appearance="light"/>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="4cL-Ev-654">
+    <device id="ipad9_7" orientation="portrait" layout="fullscreen" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15404"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -12,15 +12,82 @@
             <objects>
                 <viewController id="4cL-Ev-654" customClass="ResultViewController" customModule="hayautikun" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="f8r-XI-FBL">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7GP-Rf-PL8">
+                                <rect key="frame" x="184" y="112" width="400" height="200"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="200" id="942-YX-CfM"/>
+                                    <constraint firstAttribute="width" constant="400" id="ROM-ub-Sco"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="100"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="正解" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OYM-83-TJs">
+                                <rect key="frame" x="184" y="362" width="400" height="100"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="400" id="EV3-1c-gIT"/>
+                                    <constraint firstAttribute="height" constant="100" id="K8m-hR-tVe"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="100"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="j7N-3D-XAI">
+                                <rect key="frame" x="34" y="612" width="300" height="200"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="200" id="DMU-IS-wgn"/>
+                                    <constraint firstAttribute="width" constant="300" id="IGP-a4-ajr"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="66"/>
+                                <state key="normal" title="ホーム">
+                                    <color key="titleColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                                </state>
+                                <connections>
+                                    <action selector="gohomebutton:" destination="4cL-Ev-654" eventType="touchUpInside" id="cLr-cV-NY4"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MoC-XU-Lvo">
+                                <rect key="frame" x="434" y="612" width="300" height="200"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="200" id="9mn-e3-LjD"/>
+                                    <constraint firstAttribute="width" constant="300" id="iZh-42-Y65"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="66"/>
+                                <state key="normal" title="もう一度">
+                                    <color key="titleColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                                </state>
+                                <connections>
+                                    <action selector="gomouitibutton:" destination="4cL-Ev-654" eventType="touchUpInside" id="jsm-Av-57p"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.99953407049999998" green="0.98835557699999999" blue="0.47265523669999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="7GP-Rf-PL8" firstAttribute="centerY" secondItem="f8r-XI-FBL" secondAttribute="centerY" constant="-300" id="3Er-iK-6Ha"/>
+                            <constraint firstItem="OYM-83-TJs" firstAttribute="centerX" secondItem="f8r-XI-FBL" secondAttribute="centerX" id="45N-db-cCZ"/>
+                            <constraint firstItem="OYM-83-TJs" firstAttribute="centerY" secondItem="f8r-XI-FBL" secondAttribute="centerY" constant="-100" id="7Am-VG-pKT"/>
+                            <constraint firstItem="j7N-3D-XAI" firstAttribute="centerY" secondItem="f8r-XI-FBL" secondAttribute="centerY" constant="200" id="L3T-Eb-x4u"/>
+                            <constraint firstItem="j7N-3D-XAI" firstAttribute="centerX" secondItem="f8r-XI-FBL" secondAttribute="centerX" constant="-200" id="aNR-2x-WSe"/>
+                            <constraint firstItem="MoC-XU-Lvo" firstAttribute="centerX" secondItem="f8r-XI-FBL" secondAttribute="centerX" constant="200" id="eqn-xM-7h4"/>
+                            <constraint firstItem="7GP-Rf-PL8" firstAttribute="centerX" secondItem="f8r-XI-FBL" secondAttribute="centerX" id="gZA-Xv-bQP"/>
+                            <constraint firstItem="MoC-XU-Lvo" firstAttribute="centerY" secondItem="f8r-XI-FBL" secondAttribute="centerY" constant="200" id="qqH-tI-vh4"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="5tP-la-f6j"/>
                     </view>
+                    <connections>
+                        <outlet property="ansnumber" destination="7GP-Rf-PL8" id="o3A-O8-vzT"/>
+                        <outlet property="homebutton" destination="j7N-3D-XAI" id="8qD-EW-y19"/>
+                        <outlet property="mouitibutton" destination="MoC-XU-Lvo" id="KWf-lv-5NL"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="RA4-Bd-GLy" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="104" y="65"/>
+            <point key="canvasLocation" x="102.34375" y="64.453125"/>
         </scene>
     </scenes>
 </document>

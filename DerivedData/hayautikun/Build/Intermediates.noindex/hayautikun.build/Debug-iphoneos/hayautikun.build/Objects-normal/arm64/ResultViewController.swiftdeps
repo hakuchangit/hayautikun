@@ -1,0 +1,663 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ResultViewController"
+provides-nominal:
+- "10hayautikun20ResultViewControllerC"
+provides-member:
+- ["10hayautikun20ResultViewControllerC", ""]
+provides-dynamic-lookup:
+- "ansnumber"
+- "gohomebutton"
+- "gomouitibutton"
+- "homebutton"
+- "mouitibutton"
+- "viewDidLoad"
+depends-top-level:
+- !private "+"
+- !private "AVSpeechSynthesisVoice"
+- "AVSpeechSynthesizer"
+- !private "AVSpeechUtterance"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- !private "PlayViewController"
+- "ResultViewController"
+- !private "String"
+- !private "StringLiteralType"
+- "UIButton"
+- "UILabel"
+- !private "UIStoryboard"
+- "UIViewController"
+- !private "UnicodeScalarType"
+- !private "ViewController"
+depends-member:
+- !private ["So21AVAudioPlayerDelegateP", "modalPresentationStyle"]
+- !private ["So22AVSpeechSynthesisVoiceC", "init"]
+- ["So19AVSpeechSynthesizerC", "init"]
+- !private ["So19AVSpeechSynthesizerC", "speak"]
+- !private ["So17AVSpeechUtteranceC", "init"]
+- !private ["So17AVSpeechUtteranceC", "voice"]
+- !private ["SK", "init"]
+- !private ["So15CALayerDelegateP", "adjustsFontSizeToFitWidth"]
+- !private ["So15CALayerDelegateP", "font"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "AVSpeechSynthesisVoice"]
+- ["s7CVarArgP", "AVSpeechSynthesizer"]
+- !private ["s7CVarArgP", "AVSpeechUtterance"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "UIStoryboard"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "adjustsFontSizeToFitWidth"]
+- !private ["s7CVarArgP", "ansnumber"]
+- !private ["s7CVarArgP", "font"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "instantiateInitialViewController"]
+- !private ["s7CVarArgP", "modalPresentationStyle"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "seikainum"]
+- !private ["s7CVarArgP", "speak"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s7CVarArgP", "voice"]
+- !private ["s7CVarArgP", "withSize"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "AVSpeechSynthesisVoice"]
+- ["s28CustomDebugStringConvertibleP", "AVSpeechSynthesizer"]
+- !private ["s28CustomDebugStringConvertibleP", "AVSpeechUtterance"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "UIStoryboard"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "adjustsFontSizeToFitWidth"]
+- !private ["s28CustomDebugStringConvertibleP", "ansnumber"]
+- !private ["s28CustomDebugStringConvertibleP", "font"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "instantiateInitialViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "modalPresentationStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "seikainum"]
+- !private ["s28CustomDebugStringConvertibleP", "speak"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "voice"]
+- !private ["s28CustomDebugStringConvertibleP", "withSize"]
+- !private ["s17CustomReflectableP", "adjustsFontSizeToFitWidth"]
+- !private ["s17CustomReflectableP", "font"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s17CustomReflectableP", "withSize"]
+- !private ["s23CustomStringConvertibleP", "AVSpeechSynthesisVoice"]
+- ["s23CustomStringConvertibleP", "AVSpeechSynthesizer"]
+- !private ["s23CustomStringConvertibleP", "AVSpeechUtterance"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "UIStoryboard"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "adjustsFontSizeToFitWidth"]
+- !private ["s23CustomStringConvertibleP", "ansnumber"]
+- !private ["s23CustomStringConvertibleP", "font"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "instantiateInitialViewController"]
+- !private ["s23CustomStringConvertibleP", "modalPresentationStyle"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "seikainum"]
+- !private ["s23CustomStringConvertibleP", "speak"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "voice"]
+- !private ["s23CustomStringConvertibleP", "withSize"]
+- !private ["Se", "adjustsFontSizeToFitWidth"]
+- !private ["Se", "font"]
+- !private ["Se", "init"]
+- !private ["Se", "text"]
+- !private ["Se", "withSize"]
+- !private ["SE", "adjustsFontSizeToFitWidth"]
+- !private ["SE", "font"]
+- !private ["SE", "init"]
+- !private ["SE", "text"]
+- !private ["SE", "withSize"]
+- !private ["SQ", "AVSpeechSynthesisVoice"]
+- ["SQ", "AVSpeechSynthesizer"]
+- !private ["SQ", "AVSpeechUtterance"]
+- !private ["SQ", "String"]
+- !private ["SQ", "UIStoryboard"]
+- ["SQ", ""]
+- !private ["SQ", "adjustsFontSizeToFitWidth"]
+- !private ["SQ", "ansnumber"]
+- !private ["SQ", "font"]
+- !private ["SQ", "fullScreen"]
+- ["SQ", "init"]
+- !private ["SQ", "instantiateInitialViewController"]
+- !private ["SQ", "modalPresentationStyle"]
+- !private ["SQ", "present"]
+- !private ["SQ", "seikainum"]
+- !private ["SQ", "speak"]
+- !private ["SQ", "text"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SQ", "voice"]
+- !private ["SQ", "withSize"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "adjustsFontSizeToFitWidth"]
+- !private ["s23ExpressibleByNilLiteralP", "font"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s23ExpressibleByNilLiteralP", "withSize"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "AVSpeechSynthesisVoice"]
+- ["SH", "AVSpeechSynthesizer"]
+- !private ["SH", "AVSpeechUtterance"]
+- !private ["SH", "String"]
+- !private ["SH", "UIStoryboard"]
+- ["SH", ""]
+- !private ["SH", "adjustsFontSizeToFitWidth"]
+- !private ["SH", "ansnumber"]
+- !private ["SH", "font"]
+- !private ["SH", "fullScreen"]
+- ["SH", "init"]
+- !private ["SH", "instantiateInitialViewController"]
+- !private ["SH", "modalPresentationStyle"]
+- !private ["SH", "present"]
+- !private ["SH", "seikainum"]
+- !private ["SH", "speak"]
+- !private ["SH", "text"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SH", "voice"]
+- !private ["SH", "withSize"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "AVSpeechSynthesisVoice"]
+- ["So8NSCodingP", "AVSpeechSynthesizer"]
+- !private ["So8NSCodingP", "AVSpeechUtterance"]
+- !private ["So8NSCodingP", "String"]
+- !private ["So8NSCodingP", "UIStoryboard"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "adjustsFontSizeToFitWidth"]
+- !private ["So8NSCodingP", "ansnumber"]
+- !private ["So8NSCodingP", "font"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "modalPresentationStyle"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "seikainum"]
+- !private ["So8NSCodingP", "speak"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So8NSCodingP", "voice"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "voice"]
+- !private ["So9NSCopyingP", "withSize"]
+- !private ["So26NSExtensionRequestHandlingP", "AVSpeechSynthesisVoice"]
+- ["So26NSExtensionRequestHandlingP", "AVSpeechSynthesizer"]
+- !private ["So26NSExtensionRequestHandlingP", "AVSpeechUtterance"]
+- !private ["So26NSExtensionRequestHandlingP", "String"]
+- !private ["So26NSExtensionRequestHandlingP", "UIStoryboard"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "ansnumber"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "modalPresentationStyle"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "seikainum"]
+- !private ["So26NSExtensionRequestHandlingP", "speak"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "AVSpeechSynthesisVoice"]
+- ["So8NSObjectC", "AVSpeechSynthesizer"]
+- !private ["So8NSObjectC", "AVSpeechUtterance"]
+- !private ["So8NSObjectC", "PlayViewController"]
+- !private ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UILabel"]
+- !private ["So8NSObjectC", "UIStoryboard"]
+- !private ["So8NSObjectC", "ViewController"]
+- !private ["So8NSObjectC", "adjustsFontSizeToFitWidth"]
+- ["So8NSObjectC", "ansnumber"]
+- !private ["So8NSObjectC", "font"]
+- ["So8NSObjectC", "gohomebutton"]
+- ["So8NSObjectC", "gomouitibutton"]
+- ["So8NSObjectC", "homebutton"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "instantiateInitialViewController"]
+- !private ["So8NSObjectC", "modalPresentationStyle"]
+- ["So8NSObjectC", "mouitibutton"]
+- !private ["So8NSObjectC", "present"]
+- ["So8NSObjectC", "seikainum"]
+- ["So8NSObjectC", "speak"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectC", "voice"]
+- !private ["So8NSObjectC", "withSize"]
+- !private ["So8NSObjectP", "AVSpeechSynthesisVoice"]
+- ["So8NSObjectP", "AVSpeechSynthesizer"]
+- !private ["So8NSObjectP", "AVSpeechUtterance"]
+- !private ["So8NSObjectP", "String"]
+- !private ["So8NSObjectP", "UIStoryboard"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "adjustsFontSizeToFitWidth"]
+- !private ["So8NSObjectP", "ansnumber"]
+- !private ["So8NSObjectP", "font"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "instantiateInitialViewController"]
+- !private ["So8NSObjectP", "modalPresentationStyle"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "seikainum"]
+- !private ["So8NSObjectP", "speak"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So8NSObjectP", "voice"]
+- !private ["So8NSObjectP", "withSize"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "voice"]
+- !private ["Sq", "adjustsFontSizeToFitWidth"]
+- !private ["Sq", "font"]
+- !private ["Sq", "text"]
+- !private ["Sq", "withSize"]
+- !private ["10hayautikun18PlayViewControllerC", "modalPresentationStyle"]
+- !private ["Sm", "init"]
+- !private ["SY", "fullScreen"]
+- !private ["10hayautikun20ResultViewControllerC", "AVSpeechSynthesisVoice"]
+- ["10hayautikun20ResultViewControllerC", "AVSpeechSynthesizer"]
+- !private ["10hayautikun20ResultViewControllerC", "AVSpeechUtterance"]
+- !private ["10hayautikun20ResultViewControllerC", "PlayViewController"]
+- !private ["10hayautikun20ResultViewControllerC", "String"]
+- ["10hayautikun20ResultViewControllerC", "UIButton"]
+- ["10hayautikun20ResultViewControllerC", "UILabel"]
+- !private ["10hayautikun20ResultViewControllerC", "UIStoryboard"]
+- !private ["10hayautikun20ResultViewControllerC", "ViewController"]
+- ["10hayautikun20ResultViewControllerC", "ansnumber"]
+- ["10hayautikun20ResultViewControllerC", "deinit"]
+- ["10hayautikun20ResultViewControllerC", "gohomebutton"]
+- ["10hayautikun20ResultViewControllerC", "gomouitibutton"]
+- ["10hayautikun20ResultViewControllerC", "homebutton"]
+- ["10hayautikun20ResultViewControllerC", "init"]
+- ["10hayautikun20ResultViewControllerC", "mouitibutton"]
+- !private ["10hayautikun20ResultViewControllerC", "present"]
+- ["10hayautikun20ResultViewControllerC", "seikainum"]
+- ["10hayautikun20ResultViewControllerC", "speak"]
+- ["10hayautikun20ResultViewControllerC", "viewDidLoad"]
+- !private ["ST", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "adjustsFontSizeToFitWidth"]
+- !private ["So29UIAccessibilityIdentificationP", "font"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "adjustsFontSizeToFitWidth"]
+- !private ["So12UIAppearanceP", "font"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "AVSpeechSynthesisVoice"]
+- ["So21UIAppearanceContainerP", "AVSpeechSynthesizer"]
+- !private ["So21UIAppearanceContainerP", "AVSpeechUtterance"]
+- !private ["So21UIAppearanceContainerP", "String"]
+- !private ["So21UIAppearanceContainerP", "UIStoryboard"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "adjustsFontSizeToFitWidth"]
+- !private ["So21UIAppearanceContainerP", "ansnumber"]
+- !private ["So21UIAppearanceContainerP", "font"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "modalPresentationStyle"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "seikainum"]
+- !private ["So21UIAppearanceContainerP", "speak"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "AVSpeechSynthesisVoice"]
+- ["So18UIContentContainerP", "AVSpeechSynthesizer"]
+- !private ["So18UIContentContainerP", "AVSpeechUtterance"]
+- !private ["So18UIContentContainerP", "String"]
+- !private ["So18UIContentContainerP", "UIStoryboard"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "ansnumber"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "modalPresentationStyle"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "seikainum"]
+- !private ["So18UIContentContainerP", "speak"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "adjustsFontSizeToFitWidth"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "font"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "adjustsFontSizeToFitWidth"]
+- !private ["So17UICoordinateSpaceP", "font"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "adjustsFontSizeToFitWidth"]
+- !private ["So13UIDynamicItemP", "font"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "AVSpeechSynthesisVoice"]
+- ["So18UIFocusEnvironmentP", "AVSpeechSynthesizer"]
+- !private ["So18UIFocusEnvironmentP", "AVSpeechUtterance"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- !private ["So18UIFocusEnvironmentP", "UIStoryboard"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "adjustsFontSizeToFitWidth"]
+- !private ["So18UIFocusEnvironmentP", "ansnumber"]
+- !private ["So18UIFocusEnvironmentP", "font"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "modalPresentationStyle"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "seikainum"]
+- !private ["So18UIFocusEnvironmentP", "speak"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "adjustsFontSizeToFitWidth"]
+- !private ["So11UIFocusItemP", "font"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "adjustsFontSizeToFitWidth"]
+- !private ["So20UIFocusItemContainerP", "font"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So6UIFontC", "withSize"]
+- !private ["So7UILabelC", "adjustsFontSizeToFitWidth"]
+- !private ["So7UILabelC", "font"]
+- !private ["So7UILabelC", "text"]
+- !private ["So24UILargeContentViewerItemP", "adjustsFontSizeToFitWidth"]
+- !private ["So24UILargeContentViewerItemP", "font"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- !private ["So24UIModalPresentationStyleV", "fullScreen"]
+- !private ["So30UIPasteConfigurationSupportingP", "AVSpeechSynthesisVoice"]
+- ["So30UIPasteConfigurationSupportingP", "AVSpeechSynthesizer"]
+- !private ["So30UIPasteConfigurationSupportingP", "AVSpeechUtterance"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIStoryboard"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "adjustsFontSizeToFitWidth"]
+- !private ["So30UIPasteConfigurationSupportingP", "ansnumber"]
+- !private ["So30UIPasteConfigurationSupportingP", "font"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "modalPresentationStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "seikainum"]
+- !private ["So30UIPasteConfigurationSupportingP", "speak"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "AVSpeechSynthesisVoice"]
+- ["So11UIResponderC", "AVSpeechSynthesizer"]
+- !private ["So11UIResponderC", "AVSpeechUtterance"]
+- !private ["So11UIResponderC", "PlayViewController"]
+- !private ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UILabel"]
+- !private ["So11UIResponderC", "UIStoryboard"]
+- !private ["So11UIResponderC", "ViewController"]
+- !private ["So11UIResponderC", "adjustsFontSizeToFitWidth"]
+- ["So11UIResponderC", "ansnumber"]
+- !private ["So11UIResponderC", "font"]
+- ["So11UIResponderC", "gohomebutton"]
+- ["So11UIResponderC", "gomouitibutton"]
+- ["So11UIResponderC", "homebutton"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "modalPresentationStyle"]
+- ["So11UIResponderC", "mouitibutton"]
+- !private ["So11UIResponderC", "present"]
+- ["So11UIResponderC", "seikainum"]
+- ["So11UIResponderC", "speak"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "AVSpeechSynthesisVoice"]
+- ["So30UIResponderStandardEditActionsP", "AVSpeechSynthesizer"]
+- !private ["So30UIResponderStandardEditActionsP", "AVSpeechUtterance"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- !private ["So30UIResponderStandardEditActionsP", "UIStoryboard"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "adjustsFontSizeToFitWidth"]
+- !private ["So30UIResponderStandardEditActionsP", "ansnumber"]
+- !private ["So30UIResponderStandardEditActionsP", "font"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "modalPresentationStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "seikainum"]
+- !private ["So30UIResponderStandardEditActionsP", "speak"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "AVSpeechSynthesisVoice"]
+- ["So16UIStateRestoringP", "AVSpeechSynthesizer"]
+- !private ["So16UIStateRestoringP", "AVSpeechUtterance"]
+- !private ["So16UIStateRestoringP", "String"]
+- !private ["So16UIStateRestoringP", "UIStoryboard"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "ansnumber"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "modalPresentationStyle"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "seikainum"]
+- !private ["So16UIStateRestoringP", "speak"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So12UIStoryboardC", "init"]
+- !private ["So12UIStoryboardC", "instantiateInitialViewController"]
+- !private ["So18UITraitEnvironmentP", "AVSpeechSynthesisVoice"]
+- ["So18UITraitEnvironmentP", "AVSpeechSynthesizer"]
+- !private ["So18UITraitEnvironmentP", "AVSpeechUtterance"]
+- !private ["So18UITraitEnvironmentP", "String"]
+- !private ["So18UITraitEnvironmentP", "UIStoryboard"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "adjustsFontSizeToFitWidth"]
+- !private ["So18UITraitEnvironmentP", "ansnumber"]
+- !private ["So18UITraitEnvironmentP", "font"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "modalPresentationStyle"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "seikainum"]
+- !private ["So18UITraitEnvironmentP", "speak"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "AVSpeechSynthesisVoice"]
+- ["So23UIUserActivityRestoringP", "AVSpeechSynthesizer"]
+- !private ["So23UIUserActivityRestoringP", "AVSpeechUtterance"]
+- !private ["So23UIUserActivityRestoringP", "String"]
+- !private ["So23UIUserActivityRestoringP", "UIStoryboard"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "adjustsFontSizeToFitWidth"]
+- !private ["So23UIUserActivityRestoringP", "ansnumber"]
+- !private ["So23UIUserActivityRestoringP", "font"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "modalPresentationStyle"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So23UIUserActivityRestoringP", "seikainum"]
+- !private ["So23UIUserActivityRestoringP", "speak"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "adjustsFontSizeToFitWidth"]
+- !private ["So6UIViewC", "font"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "AVSpeechSynthesisVoice"]
+- ["So16UIViewControllerC", "AVSpeechSynthesizer"]
+- !private ["So16UIViewControllerC", "AVSpeechUtterance"]
+- !private ["So16UIViewControllerC", "PlayViewController"]
+- !private ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UILabel"]
+- !private ["So16UIViewControllerC", "UIStoryboard"]
+- !private ["So16UIViewControllerC", "ViewController"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "ansnumber"]
+- ["So16UIViewControllerC", "gohomebutton"]
+- ["So16UIViewControllerC", "gomouitibutton"]
+- ["So16UIViewControllerC", "homebutton"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "modalPresentationStyle"]
+- ["So16UIViewControllerC", "mouitibutton"]
+- !private ["So16UIViewControllerC", "present"]
+- ["So16UIViewControllerC", "seikainum"]
+- ["So16UIViewControllerC", "speak"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["10hayautikun14ViewControllerC", "modalPresentationStyle"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "AVSpeechSynthesisVoice"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "AVSpeechSynthesizer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "AVSpeechUtterance"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIStoryboard"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "adjustsFontSizeToFitWidth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ansnumber"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "font"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "instantiateInitialViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "modalPresentationStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "seikainum"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "speak"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "voice"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "withSize"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "AVSpeechSynthesisVoice"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "AVSpeechSynthesizer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "AVSpeechUtterance"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "String"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIStoryboard"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "adjustsFontSizeToFitWidth"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ansnumber"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "font"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "instantiateInitialViewController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "modalPresentationStyle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "present"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "seikainum"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "speak"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "voice"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "withSize"]
+- !private ["s21_ObjectiveCBridgeableP", "adjustsFontSizeToFitWidth"]
+- !private ["s21_ObjectiveCBridgeableP", "font"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s21_ObjectiveCBridgeableP", "withSize"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "adjustsFontSizeToFitWidth"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "font"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "So21AVAudioPlayerDelegateP"
+- !private "So22AVSpeechSynthesisVoiceC"
+- "So19AVSpeechSynthesizerC"
+- !private "So17AVSpeechUtteranceC"
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- !private "10hayautikun18PlayViewControllerC"
+- !private "Sm"
+- !private "SY"
+- "10hayautikun20ResultViewControllerC"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So6UIFontC"
+- !private "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
+- !private "So24UIModalPresentationStyleV"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- !private "So12UIStoryboardC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "10hayautikun14ViewControllerC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreMIDI.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreMedia.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/simd.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreImage.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/QuartzCore.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Dispatch.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Metal.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Darwin.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Foundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/AVFoundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreFoundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreAudio.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreGraphics.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Swift.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/UIKit.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/arm64-apple-ios.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreMIDI.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreMedia.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/simd.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/AVFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreAudio.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "b85b71c0d23be3ffc2e4194e420f4378"

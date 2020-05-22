@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>CC266C04-3BE7-4923-A56B-48751B6C5ECC</key>
+		<key>012D194E-6BAB-463D-A282-FE914BC6AE0D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>CC266C04-3BE7-4923-A56B-48751B6C5ECC.xcactivitylog</string>
+			<string>012D194E-6BAB-463D-A282-FE914BC6AE0D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,41 @@
 			<key>signature</key>
 			<string>hayautikun-eorebesznsxkwvcrgeebfmgnvcdu</string>
 			<key>timeStartedRecording</key>
-			<real>595426974.00259197</real>
+			<real>595659446.35588896</real>
 			<key>timeStoppedRecording</key>
-			<real>595426974.39125299</real>
+			<real>595659448.41325903</real>
 			<key>title</key>
 			<string>Build target hayautikun</string>
 			<key>uniqueIdentifier</key>
-			<string>CC266C04-3BE7-4923-A56B-48751B6C5ECC</string>
+			<string>012D194E-6BAB-463D-A282-FE914BC6AE0D</string>
+		</dict>
+		<key>4C5C453F-BCD8-454D-89B7-7C3C0AE57160</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>4C5C453F-BCD8-454D-89B7-7C3C0AE57160.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>hayautikun-gxekvdykkgqwkpgmsqblzvacacck</string>
+			<key>timeStartedRecording</key>
+			<real>611653183.47302103</real>
+			<key>timeStoppedRecording</key>
+			<real>611653185.12391305</real>
+			<key>title</key>
+			<string>Build target hayautikun</string>
+			<key>uniqueIdentifier</key>
+			<string>4C5C453F-BCD8-454D-89B7-7C3C0AE57160</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
